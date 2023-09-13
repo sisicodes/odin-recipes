@@ -1,0 +1,13 @@
+/* style.css */
+.img {
+    height: auto;
+    width: 250px
+}
+
+.general {
+    font-family:'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.general.header {
+    color: #c9995f;
+}
