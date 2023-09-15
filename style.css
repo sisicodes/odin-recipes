@@ -6,16 +6,21 @@
 
 .img-recipe {
     height: auto;
-    width: 850px
+    width: 850px;
+    margin: auto;
 }
 
-
+.image-container {
+    width: 850px;
+    margin:auto;
+}
 .general {
     font-family:'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 .general.header {
     color: #a8520f;
+    border-bottom: solid 2px;
 }
 
 .general.header2 {
@@ -24,4 +29,28 @@
 
 .general.header3 {
     color:#de823a;
+}
+
+.header-container {
+    width: 750px;
+    margin: auto;
+}
+
+.steps-container {
+    display:block;
+    padding:10px;
+    width: 750px;
+    margin: auto;
+
+}
+
+.ingredient-container {
+    display:block;
+    padding: 10px;
+    width: 750px;
+    margin: auto;
+}
+
+.center {
+    text-align: center;
 }
