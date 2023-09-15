@@ -1,8 +1,14 @@
 /* style.css */
 .img {
     height: auto;
-    width: 250px
+    width: 700px
 }
+
+.img-recipe {
+    height: auto;
+    width: 850px
+}
+
 
 .general {
     font-family:'Lucida Console', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
